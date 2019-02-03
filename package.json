@@ -1,0 +1,27 @@
+{
+  "name": "shorty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inoabrian/Shorty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inoabrian/Shorty/issues"
+  },
+  "homepage": "https://github.com/inoabrian/Shorty#readme",
+  "dependencies": {
+    "atob": "^2.0.3",
+    "body-parser": "^1.15.2",
+    "btoa": "^1.1.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.10.2",
+    "mongoose": "^4.13.7"
+  }
+}
